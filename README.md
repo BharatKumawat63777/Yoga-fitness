@@ -1,5 +1,5 @@
 # Responsive Yoga Website
-## [Watch it on youtube](https://youtu.be/GqozFsTz2i8)
+## [Watch it on youtube](FitAura)
 ### Responsive Yoga Website
 
 - Responsive Yoga Website Design Using HTML CSS & JavaScript
